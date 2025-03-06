@@ -58,7 +58,6 @@ const Hero = () => {
                 className="rounded-full w-64 h-64 md:w-96 md:h-96 object-cover shadow-lg ring-2 ring-violet-500/50 hover:ring-white bg-black transition-colors  from-black to-violet-700  hover:bg-violet-700 hover:cursor-pointer "
               />
             </Link>
-
           </div>
         </div>
       </div>
